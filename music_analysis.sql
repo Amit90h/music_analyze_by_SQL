@@ -186,3 +186,6 @@ ORDER BY 4 ASC, 5 DESC
 )
 SELECT * FROM customer_behaior
 WHERE rowno <= 1;
+
+
+-- Completed
